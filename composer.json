@@ -1,0 +1,20 @@
+{
+	"name": "xiaxiao002/woostify",
+	"description": "",
+	"keywords": [
+		"wordpress",
+		"theme"
+	],
+	"homepage":"https://github.com/xiaxiao002/woostify",
+	"authors": [
+		{
+		"name": "woostify",
+		"homepage":"https://eileenlue.com"
+		}
+	],
+	"type": "wordpress-theme",
+	"require": {
+		"php": ">5.6"
+	}
+
+}
